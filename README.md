@@ -4,7 +4,7 @@
 
 Me chamo Melissa Felix Santos, tenho 19 anos e sou natural de Campinas, São Paulo. Concluí o ensino médio no IFSP Campinas, com o curso técnico em informática.
 
-Durante minha formação, desenvolvi projetos utilizando HTML, CSS, JavaScript, PHP, MySQL e Java (nível básico), além de noções de React e Node.js, aplicando conceitos de desenvolvimento de sistemas, banco de dados e integração com APIs. Busco aprimorar minhas habilidades em front-end e expandir meus conhecimentos em back-end para atuar de forma completa como desenvolvedora web."[Melissa Felix Linkedin](www.linkedin.com/in/melissa-felix-santos-0bb35a332)".
+Durante minha formação, desenvolvi projetos utilizando HTML, CSS, JavaScript, PHP, MySQL e Java (nível básico), além de noções de React e Node.js, aplicando conceitos de desenvolvimento de sistemas, banco de dados e integração com APIs. Busco aprimorar minhas habilidades em front-end e expandir meus conhecimentos em back-end para atuar de forma completa como desenvolvedora web."[Melissa Felix Linkedin](www.linkedin.com/in/melissa-felix-santos-0bb35a332)"
 
 ### 🐝 Linguagens e Tecnologias
 
