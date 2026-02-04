@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="bannermel.png" alt="Melissa Felix Banner" />
+</p>
 
 **`Desenvolvedora Front-End`**
 
