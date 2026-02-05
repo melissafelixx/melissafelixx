@@ -2,7 +2,7 @@
   <img src="bannermel.png" alt="Melissa Felix Banner" />
 </p>
 
-**`Desenvolvedora Front-End`**
+**`DESENVOLVEDORA FRONT-END`**
 
 Me chamo Melissa Felix Santos, tenho 19 anos e sou natural de Campinas, São Paulo. Concluí o ensino médio no IFSP Campinas, com o curso técnico em informática.
 
