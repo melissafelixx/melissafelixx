@@ -4,7 +4,7 @@
 
 **`DESENVOLVEDORA FRONT-END`**
 
-Me chamo Melissa Felix Santos, tenho 19 anos e sou natural de Campinas, São Paulo. Concluí o ensino médio no IFSP Campinas, com o curso técnico em informática.
+Me chamo Melissa Felix Santos, tenho 20 anos e sou natural de Campinas, São Paulo. Concluí o ensino médio no IFSP Campinas, com o curso técnico em informática.
 
 Durante minha formação, desenvolvi projetos utilizando HTML, CSS, JavaScript, PHP, MySQL e Java (nível básico), além de noções de React e Node.js, aplicando conceitos de desenvolvimento de sistemas, banco de dados e integração com APIs. Busco aprimorar minhas habilidades em front-end e expandir meus conhecimentos em back-end para atuar de forma completa como desenvolvedora web.
 
